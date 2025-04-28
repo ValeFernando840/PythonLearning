@@ -1,2 +1,1 @@
-# Nuevo repositorio
-se realizarán algunas practicas en python...
+# Repositorio utilizado para realizar practicas en Python!
